@@ -1,6 +1,6 @@
 import sqlite3,csv,gzip,json,hashlib,shutil
 from pathlib import Path
-root=Path('data/media_matching_2026_09_23');root.mkdir(parents=True,exist_ok=True)
+root=Path('data/media_matching_2026_09_23/derived');root.mkdir(parents=True,exist_ok=True)
 base=Path('outputs/media_note_posts'); manifest={}
 def export(db,name,sql):
  cur=db.execute(sql);n=0

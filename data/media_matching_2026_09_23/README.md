@@ -1,8 +1,13 @@
 # Media notes and associated posts
 
+## Source fields restored
+
+Use `source_records/` for unchanged official fields and original post JSON. The old normalized files have been moved to `derived/`; they are explicitly derived analysis tables, not original Twitter/X records. Read [source documentation](source_records/README.md) first.
+
+
 Export prepared September 23, 2026. This package contains the **media-note cohort**, not all Community Notes. Source: official Community Notes snapshot downloaded August 24, 2026, reconstructed with a July 26, 2026 UTC creation cutoff. Post information was collected separately from X's public syndication endpoint. Records are observational snapshots, not an exhaustive archive of platform displays.
 
-## Files
+## Derived files (in `derived/`)
 
 |File|Contents|
 |---|---|
@@ -26,7 +31,7 @@ from pathlib import Path
 import pandas as pd
 import gzip, json
 
-d = Path('data/media_matching_2026_09_23')
+d = Path('data/media_matching_2026_09_23/derived')
 notes = pd.read_csv(d / 'media_notes.csv.gz', dtype=str)
 posts = pd.read_csv(d / 'posts.csv.gz', dtype=str)
 links = pd.read_csv(d / 'links_cutoff.csv.gz', dtype=str)

@@ -33,3 +33,7 @@ Each script is invoked as `python pipeline/SCRIPT_NAME.py`. Step 3 defaults to i
 The package includes the actual historical workflows, including their limitations. In legacy databases `isAiAuthor` is a mislabeled collaborative-note field; the release exporter renames it to `isCollaborativeNote`. Legacy strict display flags are superseded by the audited display union. Never use missing metadata as a verified untreated group. See the dataset README for timestamps, status limitations and engagement-field definitions. These scripts do not establish causal effects or identify historical display start times.
 
 The former regression/figure experiments are not part of this release pipeline and are deliberately not represented as validated analyses of these data.
+
+## Original field preservation
+
+`restore_source_fields.py` exports unchanged source TSV rows and raw post JSON archives from local snapshot/cache inputs. `verify_source_records.py` validates uploaded raw files and their display joins without local source databases. Historical processing scripts still produce derived tables; they do not modify source archives. Release exports now target the `derived/` subdirectory. Source note status history is the August snapshot and contains 152,069 available rows for the 160,767-note cohort; missing source status rows are not synthesized.

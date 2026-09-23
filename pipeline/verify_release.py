@@ -2,7 +2,7 @@
 import csv,gzip,json,hashlib
 from pathlib import Path
 
-root=Path(__file__).resolve().parents[1]/'data/media_matching_2026_09_23'
+root=Path(__file__).resolve().parents[1]/'data/media_matching_2026_09_23/derived'
 manifest=json.loads((root/'manifest.json').read_text())
 for name,meta in manifest.items():
     path=root/name
