@@ -1,0 +1,204 @@
+﻿noteId,pageUrl,capturedAt,sourceFile,complete,completionBasis,postCount,validSlices,lastCursor,unavailableItems,emptyItems,collectorStatus
+1663699585582366720,https://x.com/i/communitynotes/m/1663699585582366720,2026-09-30T05:12:54.436Z,batch_0001 (7).json,1,explicit_empty_page,0,1,10,0,10,explicit_empty_page
+1663982364303736839,https://x.com/i/communitynotes/m/1663982364303736839,2026-09-30T05:12:54.436Z,batch_0001 (7).json,1,explicit_empty_page,0,1,10,0,10,explicit_empty_page
+1664345642465120256,https://x.com/i/communitynotes/m/1664345642465120256,2026-09-30T05:12:54.436Z,batch_0001 (7).json,1,explicit_empty_page,0,1,10,0,10,explicit_empty_page
+1809083872774402200,https://x.com/i/communitynotes/m/1809083872774402200,2026-09-30T05:12:54.436Z,batch_0001 (7).json,1,terminal_slice,1,1,,0,7,pagination_complete
+1852761408993439926,https://x.com/i/communitynotes/m/1852761408993439926,2026-09-30T05:12:54.436Z,batch_0001 (7).json,1,terminal_slice,77,16,,61,18,pagination_complete
+1860281457660309762,https://x.com/i/communitynotes/m/1860281457660309762,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,1,1,,0,0,pagination_complete
+1862118227473735721,https://x.com/i/communitynotes/m/1862118227473735721,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,0,1,,2,0,explicit_empty_page
+1873426338310476018,https://x.com/i/communitynotes/m/1873426338310476018,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,13,2,,0,2,pagination_complete
+1873475540117840170,https://x.com/i/communitynotes/m/1873475540117840170,2026-09-30T07:49:10.228Z,batch_0003.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+1879266817962582473,https://x.com/i/communitynotes/m/1879266817962582473,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+1882111162407362776,https://x.com/i/communitynotes/m/1882111162407362776,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,0,1,,1,1,explicit_empty_page
+1882510573465682068,https://x.com/i/communitynotes/m/1882510573465682068,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,5,1,,3,0,pagination_complete
+1882595996980347228,https://x.com/i/communitynotes/m/1882595996980347228,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+1888215995896021132,https://x.com/i/communitynotes/m/1888215995896021132,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,205,46,,22,63,pagination_complete
+1894728019488505997,https://x.com/i/communitynotes/m/1894728019488505997,2026-09-30T05:12:54.436Z,batch_0001 (7).json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+1898723937892302911,https://x.com/i/communitynotes/m/1898723937892302911,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+1900206379593241033,https://x.com/i/communitynotes/m/1900206379593241033,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,3,1,,0,3,pagination_complete
+1900286986575110287,https://x.com/i/communitynotes/m/1900286986575110287,2026-09-30T07:38:13.233Z,batch_0001 (9).json,1,terminal_slice,166,33,,126,35,pagination_complete
+1905796922352263415,https://x.com/i/communitynotes/m/1905796922352263415,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,1,1,,0,0,pagination_complete
+1908199837595750686,https://x.com/i/communitynotes/m/1908199837595750686,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,1,1,,0,0,pagination_complete
+1913749870168670391,https://x.com/i/communitynotes/m/1913749870168670391,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,177,28,,16,34,pagination_complete
+1920589506077413666,https://x.com/i/communitynotes/m/1920589506077413666,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,18,3,,2,4,pagination_complete
+1927124530608140772,https://x.com/i/communitynotes/m/1927124530608140772,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,65,9,,6,13,pagination_complete
+1928475046533538020,https://x.com/i/communitynotes/m/1928475046533538020,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,73,10,,9,10,pagination_complete
+1941942148498440487,https://x.com/i/communitynotes/m/1941942148498440487,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,12,6,,37,3,pagination_complete
+1945040080705306656,https://x.com/i/communitynotes/m/1945040080705306656,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,166,19,,11,13,pagination_complete
+1947484156532818136,https://x.com/i/communitynotes/m/1947484156532818136,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,8,1,,1,1,pagination_complete
+1954655255485935942,https://x.com/i/communitynotes/m/1954655255485935942,2026-09-30T05:12:54.436Z,batch_0001 (7).json,1,terminal_slice,280,40,,62,46,pagination_complete
+1955680221442842704,https://x.com/i/communitynotes/m/1955680221442842704,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,31,4,,5,3,pagination_complete
+1968193508897919288,https://x.com/i/communitynotes/m/1968193508897919288,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,2,1,,0,0,pagination_complete
+1978800336350454092,https://x.com/i/communitynotes/m/1978800336350454092,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,18,3,,2,4,pagination_complete
+1987886800413901036,https://x.com/i/communitynotes/m/1987886800413901036,2026-09-30T07:38:13.233Z,batch_0001 (9).json,1,terminal_slice,2,1,,1,2,pagination_complete
+1992032860845338845,https://x.com/i/communitynotes/m/1992032860845338845,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,16,2,,1,1,pagination_complete
+1998754797235663080,https://x.com/i/communitynotes/m/1998754797235663080,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,3,1,,1,0,pagination_complete
+2010376376075821251,https://x.com/i/communitynotes/m/2010376376075821251,2026-09-30T07:38:13.233Z,batch_0001 (9).json,1,terminal_slice,161,21,,35,10,pagination_complete
+2016105089937850530,https://x.com/i/communitynotes/m/2016105089937850530,2026-09-30T07:38:13.233Z,batch_0001 (9).json,0,,772,172,950,92,226,partial
+2018324806609813791,https://x.com/i/communitynotes/m/2018324806609813791,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,53,6,,4,1,pagination_complete
+2020935654046048618,https://x.com/i/communitynotes/m/2020935654046048618,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2023581578136309916,https://x.com/i/communitynotes/m/2023581578136309916,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,3,1,,1,1,pagination_complete
+2031202322395660371,https://x.com/i/communitynotes/m/2031202322395660371,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,6,1,,0,1,pagination_complete
+2031206505928692153,https://x.com/i/communitynotes/m/2031206505928692153,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,7,2,,3,2,pagination_complete
+2031836479090012628,https://x.com/i/communitynotes/m/2031836479090012628,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,35,17,,24,4,pagination_complete
+2031836747487654269,https://x.com/i/communitynotes/m/2031836747487654269,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,37,14,,21,4,pagination_complete
+2031876781330899391,https://x.com/i/communitynotes/m/2031876781330899391,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,121,25,,4,4,pagination_complete
+2032664229480653003,https://x.com/i/communitynotes/m/2032664229480653003,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,3,1,,0,0,pagination_complete
+2032839816446906420,https://x.com/i/communitynotes/m/2032839816446906420,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,41,15,,4,29,pagination_complete
+2032840089240215926,https://x.com/i/communitynotes/m/2032840089240215926,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,28,12,,1,19,pagination_complete
+2032979138945102083,https://x.com/i/communitynotes/m/2032979138945102083,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,16,2,,1,2,pagination_complete
+2033301819388997830,https://x.com/i/communitynotes/m/2033301819388997830,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,4,1,,0,2,pagination_complete
+2033956519772099045,https://x.com/i/communitynotes/m/2033956519772099045,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2034096257036165389,https://x.com/i/communitynotes/m/2034096257036165389,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,3,1,,3,1,pagination_complete
+2034213921192661405,https://x.com/i/communitynotes/m/2034213921192661405,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,88,43,,329,10,pagination_complete
+2035512494731448392,https://x.com/i/communitynotes/m/2035512494731448392,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2035529964389294221,https://x.com/i/communitynotes/m/2035529964389294221,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,0,1,,0,1,explicit_empty_page
+2035668949405237695,https://x.com/i/communitynotes/m/2035668949405237695,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,24,3,,4,1,pagination_complete
+2036595882976563446,https://x.com/i/communitynotes/m/2036595882976563446,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,39,6,,4,12,pagination_complete
+2037517382726361150,https://x.com/i/communitynotes/m/2037517382726361150,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2038877160954368014,https://x.com/i/communitynotes/m/2038877160954368014,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,7,1,,0,1,pagination_complete
+2039247419368427605,https://x.com/i/communitynotes/m/2039247419368427605,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,2,1,,0,0,pagination_complete
+2039461427518292298,https://x.com/i/communitynotes/m/2039461427518292298,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,4,1,,5,0,pagination_complete
+2039487906541146596,https://x.com/i/communitynotes/m/2039487906541146596,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,246,122,,58,887,pagination_complete
+2039676809021706379,https://x.com/i/communitynotes/m/2039676809021706379,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,75,25,,14,22,pagination_complete
+2040370759739023379,https://x.com/i/communitynotes/m/2040370759739023379,2026-09-30T07:54:41.235Z,batch_0004.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2040585243875332374,https://x.com/i/communitynotes/m/2040585243875332374,2026-09-30T07:54:41.235Z,batch_0004.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2042291256156402103,https://x.com/i/communitynotes/m/2042291256156402103,2026-09-30T07:54:41.235Z,batch_0004.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2043004509459279887,https://x.com/i/communitynotes/m/2043004509459279887,2026-09-30T07:54:41.235Z,batch_0004.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2043289181137334281,https://x.com/i/communitynotes/m/2043289181137334281,2026-09-30T07:54:41.235Z,batch_0004.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2043289276897546726,https://x.com/i/communitynotes/m/2043289276897546726,2026-09-30T07:54:41.235Z,batch_0004.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2044356419223257344,https://x.com/i/communitynotes/m/2044356419223257344,2026-09-30T07:54:41.235Z,batch_0004.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2045271990416666943,https://x.com/i/communitynotes/m/2045271990416666943,2026-09-30T07:54:41.235Z,batch_0004.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2045864151642222740,https://x.com/i/communitynotes/m/2045864151642222740,2026-09-30T07:54:41.235Z,batch_0004.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2046001831176740951,https://x.com/i/communitynotes/m/2046001831176740951,2026-09-30T07:54:41.235Z,batch_0004.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2047194729444782159,https://x.com/i/communitynotes/m/2047194729444782159,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,123,13,,3,1,pagination_complete
+2048361411504414883,https://x.com/i/communitynotes/m/2048361411504414883,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,0,1,,0,2,explicit_empty_page
+2048802028512534864,https://x.com/i/communitynotes/m/2048802028512534864,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,4,1,,1,3,pagination_complete
+2050576681287532661,https://x.com/i/communitynotes/m/2050576681287532661,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,8,2,,0,0,pagination_complete
+2050576989891805386,https://x.com/i/communitynotes/m/2050576989891805386,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,9,2,,0,0,pagination_complete
+2051013757380477105,https://x.com/i/communitynotes/m/2051013757380477105,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,44,6,,4,7,pagination_complete
+2051027846831677592,https://x.com/i/communitynotes/m/2051027846831677592,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,4,1,,0,0,pagination_complete
+2051077870252855518,https://x.com/i/communitynotes/m/2051077870252855518,2026-09-30T07:54:41.235Z,batch_0004.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2051302248538366445,https://x.com/i/communitynotes/m/2051302248538366445,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,5,1,,3,0,pagination_complete
+2051849483835605228,https://x.com/i/communitynotes/m/2051849483835605228,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,11,2,,0,2,pagination_complete
+2051849661833445886,https://x.com/i/communitynotes/m/2051849661833445886,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2052032232575975668,https://x.com/i/communitynotes/m/2052032232575975668,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,15,2,,2,1,pagination_complete
+2052069994817565165,https://x.com/i/communitynotes/m/2052069994817565165,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,2,1,,3,4,pagination_complete
+2052737402939019623,https://x.com/i/communitynotes/m/2052737402939019623,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,56,7,,6,4,pagination_complete
+2052818752929169656,https://x.com/i/communitynotes/m/2052818752929169656,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,4,1,,2,2,pagination_complete
+2053761642454814938,https://x.com/i/communitynotes/m/2053761642454814938,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,11,2,,1,4,pagination_complete
+2053823553963741695,https://x.com/i/communitynotes/m/2053823553963741695,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,4,2,,2,2,pagination_complete
+2054076004264780263,https://x.com/i/communitynotes/m/2054076004264780263,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,1,1,,0,0,pagination_complete
+2054104537536008484,https://x.com/i/communitynotes/m/2054104537536008484,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,2,1,,1,0,pagination_complete
+2054163391233528286,https://x.com/i/communitynotes/m/2054163391233528286,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,55,10,,9,27,pagination_complete
+2054245522932654460,https://x.com/i/communitynotes/m/2054245522932654460,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,6,1,,1,0,pagination_complete
+2054248359783772571,https://x.com/i/communitynotes/m/2054248359783772571,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,51,6,,0,2,pagination_complete
+2054248594559901886,https://x.com/i/communitynotes/m/2054248594559901886,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,48,5,,0,2,pagination_complete
+2054248731810116028,https://x.com/i/communitynotes/m/2054248731810116028,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,51,6,,0,2,pagination_complete
+2054519182620844532,https://x.com/i/communitynotes/m/2054519182620844532,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2054698732319338961,https://x.com/i/communitynotes/m/2054698732319338961,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,159,22,,35,25,pagination_complete
+2054756675563778201,https://x.com/i/communitynotes/m/2054756675563778201,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,4,2,,2,4,pagination_complete
+2054760569295474715,https://x.com/i/communitynotes/m/2054760569295474715,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,3,1,,0,0,pagination_complete
+2054847673862148168,https://x.com/i/communitynotes/m/2054847673862148168,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,7,2,,1,4,pagination_complete
+2055089601904025970,https://x.com/i/communitynotes/m/2055089601904025970,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,6,2,,4,5,pagination_complete
+2055090063533388207,https://x.com/i/communitynotes/m/2055090063533388207,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,2,1,,0,1,pagination_complete
+2055332839646810368,https://x.com/i/communitynotes/m/2055332839646810368,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,1,1,,0,5,pagination_complete
+2055384007765057898,https://x.com/i/communitynotes/m/2055384007765057898,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,40,5,,0,2,pagination_complete
+2055635431731986663,https://x.com/i/communitynotes/m/2055635431731986663,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,65,9,,16,1,pagination_complete
+2055831576781414694,https://x.com/i/communitynotes/m/2055831576781414694,2026-09-30T07:58:34.239Z,batch_0005.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2055992950450987335,https://x.com/i/communitynotes/m/2055992950450987335,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,15,2,,0,4,pagination_complete
+2056062613142884441,https://x.com/i/communitynotes/m/2056062613142884441,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2056063466536849756,https://x.com/i/communitynotes/m/2056063466536849756,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,10,2,,1,2,pagination_complete
+2056158057118208193,https://x.com/i/communitynotes/m/2056158057118208193,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,7,1,,1,0,pagination_complete
+2056368873146839357,https://x.com/i/communitynotes/m/2056368873146839357,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,38,8,,10,12,pagination_complete
+2056406814271451318,https://x.com/i/communitynotes/m/2056406814271451318,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,166,22,,11,34,pagination_complete
+2056432199180927388,https://x.com/i/communitynotes/m/2056432199180927388,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,10,2,,0,0,pagination_complete
+2056432569835540893,https://x.com/i/communitynotes/m/2056432569835540893,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,11,2,,0,0,pagination_complete
+2056434524024651834,https://x.com/i/communitynotes/m/2056434524024651834,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,13,2,,0,1,pagination_complete
+2056461424654762355,https://x.com/i/communitynotes/m/2056461424654762355,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,20,3,,1,0,pagination_complete
+2056766178912067994,https://x.com/i/communitynotes/m/2056766178912067994,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,6,1,,0,3,pagination_complete
+2056812783015002457,https://x.com/i/communitynotes/m/2056812783015002457,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,163,22,,11,38,pagination_complete
+2056826138354434542,https://x.com/i/communitynotes/m/2056826138354434542,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,11,3,,2,0,pagination_complete
+2056826299449049581,https://x.com/i/communitynotes/m/2056826299449049581,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,2,1,,0,0,pagination_complete
+2056826405724311929,https://x.com/i/communitynotes/m/2056826405724311929,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,3,1,,0,1,pagination_complete
+2056938760546230628,https://x.com/i/communitynotes/m/2056938760546230628,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2057488048124809705,https://x.com/i/communitynotes/m/2057488048124809705,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,9,2,,1,0,pagination_complete
+2057517876903346525,https://x.com/i/communitynotes/m/2057517876903346525,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,6,1,,0,0,pagination_complete
+2057518233507217828,https://x.com/i/communitynotes/m/2057518233507217828,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,9,3,,0,6,pagination_complete
+2058294587399995411,https://x.com/i/communitynotes/m/2058294587399995411,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,37,5,,3,10,pagination_complete
+2058852750645919921,https://x.com/i/communitynotes/m/2058852750645919921,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,227,33,,19,74,pagination_complete
+2058932124049093039,https://x.com/i/communitynotes/m/2058932124049093039,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,1,1,,2,2,pagination_complete
+2059151093318226167,https://x.com/i/communitynotes/m/2059151093318226167,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,28,5,,1,12,pagination_complete
+2059212707761467690,https://x.com/i/communitynotes/m/2059212707761467690,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,11,2,,0,2,pagination_complete
+2059372128122835415,https://x.com/i/communitynotes/m/2059372128122835415,2026-09-30T08:03:35.236Z,batch_0006.json,1,terminal_slice,50,8,,9,19,pagination_complete
+2059537161033056696,https://x.com/i/communitynotes/m/2059537161033056696,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,303,50,,48,35,pagination_complete
+2059640687595761759,https://x.com/i/communitynotes/m/2059640687595761759,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,8,2,,0,3,pagination_complete
+2059653544261669358,https://x.com/i/communitynotes/m/2059653544261669358,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,41,6,,5,14,pagination_complete
+2059726964361969936,https://x.com/i/communitynotes/m/2059726964361969936,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,139,23,,34,35,pagination_complete
+2059765166217048410,https://x.com/i/communitynotes/m/2059765166217048410,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,98,24,,26,107,pagination_complete
+2059776271178223943,https://x.com/i/communitynotes/m/2059776271178223943,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,45,6,,6,8,pagination_complete
+2060042233445855613,https://x.com/i/communitynotes/m/2060042233445855613,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,128,14,,4,6,pagination_complete
+2060046835759153628,https://x.com/i/communitynotes/m/2060046835759153628,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,12,4,,5,10,pagination_complete
+2060270376496546275,https://x.com/i/communitynotes/m/2060270376496546275,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,4,2,,2,2,pagination_complete
+2060271536028741716,https://x.com/i/communitynotes/m/2060271536028741716,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,2,1,,0,0,pagination_complete
+2060378960416981043,https://x.com/i/communitynotes/m/2060378960416981043,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,1,1,,1,2,pagination_complete
+2060389735105724918,https://x.com/i/communitynotes/m/2060389735105724918,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,8,2,,0,0,pagination_complete
+2060400205950836907,https://x.com/i/communitynotes/m/2060400205950836907,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,2,1,,0,0,pagination_complete
+2060709994585116810,https://x.com/i/communitynotes/m/2060709994585116810,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,317,63,,48,104,pagination_complete
+2060828276990333101,https://x.com/i/communitynotes/m/2060828276990333101,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,28,6,,7,8,pagination_complete
+2060830002447339710,https://x.com/i/communitynotes/m/2060830002447339710,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,2,1,,1,3,pagination_complete
+2061077695782383765,https://x.com/i/communitynotes/m/2061077695782383765,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,28,4,,7,1,pagination_complete
+2061148336896311495,https://x.com/i/communitynotes/m/2061148336896311495,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,20,5,,3,6,pagination_complete
+2061169183229190464,https://x.com/i/communitynotes/m/2061169183229190464,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,4,1,,1,2,pagination_complete
+2061209456692613429,https://x.com/i/communitynotes/m/2061209456692613429,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2061216640587452827,https://x.com/i/communitynotes/m/2061216640587452827,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,3,1,,1,0,pagination_complete
+2061217292906528818,https://x.com/i/communitynotes/m/2061217292906528818,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,49,6,,4,1,pagination_complete
+2061239635397734905,https://x.com/i/communitynotes/m/2061239635397734905,2026-09-30T08:12:09.234Z,batch_0007.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2061240510535107041,https://x.com/i/communitynotes/m/2061240510535107041,2026-09-30T08:12:09.234Z,batch_0007.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2061243914191860163,https://x.com/i/communitynotes/m/2061243914191860163,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,5,1,,0,0,pagination_complete
+2061429925798703354,https://x.com/i/communitynotes/m/2061429925798703354,2026-09-30T08:12:09.234Z,batch_0007.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2061433249541341404,https://x.com/i/communitynotes/m/2061433249541341404,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,3,1,,1,0,pagination_complete
+2061613220498927741,https://x.com/i/communitynotes/m/2061613220498927741,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,7,2,,1,3,pagination_complete
+2061613622388773355,https://x.com/i/communitynotes/m/2061613622388773355,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,13,6,,2,9,pagination_complete
+2061613793558634696,https://x.com/i/communitynotes/m/2061613793558634696,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,39,6,,1,2,pagination_complete
+2061794980725739975,https://x.com/i/communitynotes/m/2061794980725739975,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,121,17,,16,7,pagination_complete
+2061824722203992081,https://x.com/i/communitynotes/m/2061824722203992081,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,58,8,,9,13,pagination_complete
+2061863195317354875,https://x.com/i/communitynotes/m/2061863195317354875,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,1,1,,0,2,pagination_complete
+2062081908876443916,https://x.com/i/communitynotes/m/2062081908876443916,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,22,3,,1,1,pagination_complete
+2062082445529264476,https://x.com/i/communitynotes/m/2062082445529264476,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,38,7,,10,3,pagination_complete
+2062263519421014152,https://x.com/i/communitynotes/m/2062263519421014152,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2062278898696520073,https://x.com/i/communitynotes/m/2062278898696520073,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,31,7,,7,2,pagination_complete
+2062451266622546177,https://x.com/i/communitynotes/m/2062451266622546177,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2062474867182628995,https://x.com/i/communitynotes/m/2062474867182628995,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,1,1,,4,0,pagination_complete
+2062494141066482123,https://x.com/i/communitynotes/m/2062494141066482123,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2062521599207555540,https://x.com/i/communitynotes/m/2062521599207555540,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2062550331326607362,https://x.com/i/communitynotes/m/2062550331326607362,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,7,2,,1,0,pagination_complete
+2062552204368609418,https://x.com/i/communitynotes/m/2062552204368609418,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,3,1,,0,0,pagination_complete
+2062648333907427369,https://x.com/i/communitynotes/m/2062648333907427369,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,0,1,,0,2,explicit_empty_page
+2062676443755053391,https://x.com/i/communitynotes/m/2062676443755053391,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,1,1,,0,0,pagination_complete
+2062676821854839236,https://x.com/i/communitynotes/m/2062676821854839236,2026-09-30T08:15:35.232Z,batch_0008.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2062877091733860662,https://x.com/i/communitynotes/m/2062877091733860662,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,19,3,,1,1,pagination_complete
+2062961315509866819,https://x.com/i/communitynotes/m/2062961315509866819,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,49,8,,10,18,pagination_complete
+2063003592739450895,https://x.com/i/communitynotes/m/2063003592739450895,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,5,1,,0,1,pagination_complete
+2063033245827043350,https://x.com/i/communitynotes/m/2063033245827043350,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,8,1,,1,1,pagination_complete
+2063033932543602700,https://x.com/i/communitynotes/m/2063033932543602700,2026-09-30T08:15:35.232Z,batch_0008.json,1,terminal_slice,2,1,,1,3,pagination_complete
+2063222852866765207,https://x.com/i/communitynotes/m/2063222852866765207,2026-09-30T08:18:18.247Z,batch_0009.json,1,terminal_slice,193,30,,43,56,pagination_complete
+2063259905453126046,https://x.com/i/communitynotes/m/2063259905453126046,2026-09-30T08:18:18.247Z,batch_0009.json,1,terminal_slice,65,10,,2,3,pagination_complete
+2063381306575110380,https://x.com/i/communitynotes/m/2063381306575110380,2026-09-30T08:18:18.247Z,batch_0009.json,1,terminal_slice,0,1,,0,2,explicit_empty_page
+2063539763190108222,https://x.com/i/communitynotes/m/2063539763190108222,2026-09-30T08:18:18.247Z,batch_0009.json,1,terminal_slice,0,1,,0,2,explicit_empty_page
+2063540893517295678,https://x.com/i/communitynotes/m/2063540893517295678,2026-09-30T08:18:18.247Z,batch_0009.json,1,terminal_slice,4,2,,0,4,pagination_complete
+2063541367872053516,https://x.com/i/communitynotes/m/2063541367872053516,2026-09-30T08:18:18.247Z,batch_0009.json,1,explicit_empty_page,0,0,,0,0,explicit_empty_page
+2063646518058344820,https://x.com/i/communitynotes/m/2063646518058344820,2026-09-30T08:18:18.247Z,batch_0009.json,1,terminal_slice,6,1,,0,4,pagination_complete
+2063649245664579919,https://x.com/i/communitynotes/m/2063649245664579919,2026-09-30T08:18:18.247Z,batch_0009.json,1,terminal_slice,14,2,,3,1,pagination_complete
+2063650308975218916,https://x.com/i/communitynotes/m/2063650308975218916,2026-09-30T08:18:18.247Z,batch_0009.json,1,terminal_slice,7,2,,0,4,pagination_complete
+2063708998931824902,https://x.com/i/communitynotes/m/2063708998931824902,2026-09-30T08:18:18.247Z,batch_0009.json,1,terminal_slice,0,1,,0,4,explicit_empty_page
+2063710745359978649,https://x.com/i/communitynotes/m/2063710745359978649,2026-09-30T08:18:18.247Z,batch_0009.json,1,terminal_slice,8,3,,2,3,pagination_complete
+2063904203320238496,https://x.com/i/communitynotes/m/2063904203320238496,2026-09-30T08:18:18.247Z,batch_0009.json,0,,0,0,,0,0,no_matching_response_observed
+2063916781266239999,https://x.com/i/communitynotes/m/2063916781266239999,2026-09-30T08:37:22.120Z,batch_shard_02_0001.json,0,,183,23,230,12,35,pagination_stalled
+2070813648461967852,https://x.com/i/communitynotes/m/2070813648461967852,2026-09-30T07:44:03.239Z,batch_0002 (1).json,1,terminal_slice,34,7,,13,17,pagination_complete
+2077448537739047224,https://x.com/i/communitynotes/m/2077448537739047224,2026-09-30T05:12:54.436Z,batch_0001 (7).json,1,terminal_slice,3,1,,0,0,pagination_complete
+2079472367886098613,https://x.com/i/communitynotes/m/2079472367886098613,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,16,2,,1,0,pagination_complete
+2080717827401527386,https://x.com/i/communitynotes/m/2080717827401527386,2026-09-30T07:49:10.228Z,batch_0003.json,1,terminal_slice,36,5,,3,6,pagination_complete
+2080837853819343306,https://x.com/i/communitynotes/m/2080837853819343306,2026-09-30T05:12:54.436Z,batch_0001 (7).json,1,terminal_slice,16,3,,1,4,pagination_complete
+2081174424221569305,https://x.com/i/communitynotes/m/2081174424221569305,2026-09-30T05:12:54.436Z,batch_0001 (7).json,1,terminal_slice,22,3,,0,5,pagination_complete
+2081204138612805931,https://x.com/i/communitynotes/m/2081204138612805931,2026-09-30T04:12:40.431Z,batch_0001 (4).json,1,terminal_slice,30,6,,4,11,pagination_stalled

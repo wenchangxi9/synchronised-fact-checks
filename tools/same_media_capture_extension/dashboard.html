@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<title>同媒体页面采集</title>
+<style>
+  body { font: 15px/1.5 system-ui, sans-serif; max-width: 780px; margin: 36px auto; padding: 0 20px; }
+  h1 { font-size: 24px; }
+  button, input { font: inherit; margin: 8px 10px 8px 0; }
+  button { padding: 6px 12px; }
+  #log { white-space: pre-wrap; background: #f3f5f7; padding: 16px; min-height: 130px; max-height: 360px; overflow: auto; }
+  .note { color: #555; }
+</style>
+<h1>Posts with the same media：批量采集</h1>
+<p>在已登录 X 的 Chrome 中运行。每个 note 访问官方 <code>/i/communitynotes/m/{noteId}</code> 页面，记录同媒体列表响应。为加快续页，扩展会在内存中临时复用该页面请求 X 所需的认证请求头；不读取密码或 Cookie，也不把请求头写入结果文件。</p>
+<label>选择包含 <code>noteId</code> 列的 CSV：<input id="file" type="file" accept=".csv,text/csv"></label>
+<p>单次上限 <input id="limit" type="number" min="1" max="200000" value="1000" style="width:110px"> 条 note。建议先运行 1000 条检查速度与完整性；每 25 条自动下载一批结果。</p>
+<button id="start" disabled>开始</button><button id="stop" disabled>停止并导出</button><button id="reset" disabled>从头开始</button>
+<p id="position">未载入队列</p>
+<p class="note">请保持此控制页打开。采集使用官方页面加载的同媒体接口，并试着沿其分页游标读取后续页；若直接续页不可用，则用页面滚动加载。“未收到响应”和“空列表”分开记录。未完整的列表会单独保存供重试，并继续下一条；需要重新登录或完全收不到列表响应时暂停。数据保存在浏览器下载文件夹。</p>
+<div id="log" aria-live="polite">请选择 CSV。</div>
+<script src="dashboard.js"></script>
+</html>
